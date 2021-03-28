@@ -1,1 +1,1 @@
-this is extracts weather, it uses brave as its test sofware you might want to have brave installed in your pc :) 
+this is extracts weather, according to use browser open the file chrome/firefox/brave paste the code in bot.py after the imports

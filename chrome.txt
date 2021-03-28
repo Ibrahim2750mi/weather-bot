@@ -1,0 +1,1 @@
+web_driver = webdriver.Chrome(executable_path="chromedriver.exe")

@@ -2,14 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-driver_path = "F:/PyCharm/chromedriver_win32/chromedriver.exe"
-brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"
-
-option = webdriver.ChromeOptions()
-option.binary_location = brave_path
-
-# Create new Instance of Chrome
-browser = webdriver.Chrome(executable_path=driver_path, options=option)
+#paste here
 
 browser.get("https://darksky.net/")
 
